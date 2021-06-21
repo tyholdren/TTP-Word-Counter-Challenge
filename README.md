@@ -40,4 +40,4 @@ Now you can place your text in the terminal and see their respective outputs.<br
 
 ## Help
 
-If you are not getting the expected results from your tests, reference the 'algo.test' file to view the format of each string used to test each function. You may have to adjust your inputs accordingly.
+If you are not getting the expected results from your tests (possibly the paragraph test), reference the 'algo.test' file to view the format of each input used to test each function. You may have to adjust your inputs accordingly.
