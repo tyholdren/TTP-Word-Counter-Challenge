@@ -22,8 +22,6 @@ Extra Features
 
 ### Dependencies
 
-kdkdkd
-
 - node <br><br>
 
 ### Installing
