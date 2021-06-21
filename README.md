@@ -4,16 +4,9 @@ Word Count Challenge
 
 ## Description
 
-I've completed the word counter challenge, and created a few additional features where one can:
+I've completed the word counter challenge, and created a few additional features where one can retrieve letter frequency, find words inside of other words, and get the percentage of the word length from a string
 
-retrieve letter frequency
-find words inside of other words
-get the percentage of the word length from a string
-
-ADDITIONALLY!
-Please view the app I built using Spotify's API!
-
-[Spotify Application](https://github.com/tyholdren/Spotify-App)
+In addition to this challenge, I've also created an app using Spotify's API. View it here: [Spotify Application](https://github.com/tyholdren/Spotify-App)
 
 ### Dependencies
 
