@@ -40,4 +40,3 @@ If you are not getting the expected results from your tests, view the algo.test 
 ## Authors
 
 Tyler Holdren
-# TTP-Word-Counter-Challenge
